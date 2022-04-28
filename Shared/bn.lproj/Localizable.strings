@@ -1491,9 +1491,6 @@
 /* Title for the section in the settings menu where users can configure the behaviour of the Start at Home feature on the Firefox Homepage. */
 "Settings.Home.Option.StartAtHome.Title" = "খোলা পর্দা";
 
-/* In the settings menu, this is the title of the Firefox Homepage customization settings section */
-"Settings.Home.Option.Title" = "Firefox Homepage";
-
 /* Button in settings to clear the home page. */
 "Settings.HomePage.Clear.Button" = "মুছে দিন";
 

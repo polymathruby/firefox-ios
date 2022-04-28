@@ -1485,9 +1485,6 @@
 /* Title for the section in the settings menu where users can configure the behaviour of the Start at Home feature on the Firefox Homepage. */
 "Settings.Home.Option.StartAtHome.Title" = "खुलता हुआ स्क्रीन";
 
-/* In the settings menu, this is the title of the Firefox Homepage customization settings section */
-"Settings.Home.Option.Title" = "फ़ायरफ़ॉक्स मुखपृष्ठ";
-
 /* Button in settings to clear the home page. */
 "Settings.HomePage.Clear.Button" = "खाली करें";
 
