@@ -645,8 +645,8 @@
 		C8954A532729AD9D001C7283 /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8954A4F2729AD9C001C7283 /* ThemeManager.swift */; };
 		C8954A542729AD9D001C7283 /* CustomTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8954A502729AD9D001C7283 /* CustomTheme.swift */; };
 		C8A012F126AB07D70096A7A7 /* FxHomeJumpBackInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A012F026AB07D70096A7A7 /* FxHomeJumpBackInViewModel.swift */; };
-		C8BA0E7627F20B8E00DD8214 /* HistoryDeletionUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BA0E7527F20B8E00DD8214 /* HistoryDeletionUtility.swift */; };
 		C8B07A4128199500000AFCE7 /* NimbusFlaggableFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B07A4028199500000AFCE7 /* NimbusFlaggableFeature.swift */; };
+		C8BA0E7627F20B8E00DD8214 /* HistoryDeletionUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BA0E7527F20B8E00DD8214 /* HistoryDeletionUtility.swift */; };
 		C8CC4F8725253E79003FDE1F /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAD46F3324A1606C001B3967 /* WidgetKit.framework */; };
 		C8CE389C265E71E00009B09E /* CredentialListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CE389A265E71E00009B09E /* CredentialListViewController.swift */; };
 		C8CE38B9265E71FE0009B09E /* EmptyPlaceholderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CE38B1265E71FE0009B09E /* EmptyPlaceholderCell.swift */; };
