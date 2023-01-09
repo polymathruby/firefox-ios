@@ -194,7 +194,7 @@
 "ContextMenu.ShareLinkButtonTitle" = "Падзяліцца спасылкай";
 
 /* Contextual hints are little popups that appear for the users informing them of new features. This one is a call to action for the popup describing search bar placement. It indicates a user can navigate to the settings page that allows them to customize the placement of the search bar. */
-"ContextualHints.SearchBarPlacement.CallToAction" = "Налады паліцы інструментаў";
+"ContextualHints.SearchBarPlacement.CallToAction" = "Налады паліцы прылад";
 
 /* Contextual hints are little popups that appear for the users informing them of new features. This one talks about the inactive tabs feature. */
 "ContextualHints.TabTray.InactiveTabs" = "Карткі, якія вы не праглядалі на працягу двух тыдняў, будуць перанесеныя сюды.";
@@ -896,7 +896,7 @@
 "OK" = "OK";
 
 /* Restore Tabs Affirmative Action */
-"Okay" = "Добра";
+"Okay" = "Так";
 
 /* Describes the action on the first onboarding page in our Onboarding screen. This string will be on a button so user can continue the onboarding. */
 "Onboarding.IntroAction.v102" = "Пачаць";
@@ -1064,7 +1064,7 @@
 "ScanQRCode.Error.OK.Button" = "OK";
 
 /* Text for the instructions label, displayed in the QR scanner view */
-"ScanQRCode.Instructions.Label" = "Размясціце QR-код унутры рамкі сканавання";
+"ScanQRCode.Instructions.Label" = "Размясціце QR-код унутры рамкі сканіравання";
 
 /* Text of the prompt that is shown to the user when the data is invalid */
 "ScanQRCode.InvalidDataError.Message" = "Несапраўдныя звесткі";
@@ -1073,7 +1073,7 @@
 "ScanQRCode.PermissionError.Message.v100" = "Прайдзіце ў ‘Налады’ прылады > ‘Firefox’. Дазвольце Firefox доступ да камеры.";
 
 /* Title for the QR code scanner view. */
-"ScanQRCode.View.Title" = "Сканаваць QR-код";
+"ScanQRCode.View.Title" = "Сканіраваць QR-код";
 
 /* Open search section of settings */
 "Search" = "Пошук";
