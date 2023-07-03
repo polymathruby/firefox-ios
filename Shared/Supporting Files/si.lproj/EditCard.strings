@@ -43,9 +43,3 @@
 /* Button label for saving the credit card details user entered in the form */
 "CreditCard.EditCard.SaveNavBarButtonLabel.v113" = "සුරකින්න";
 
-/* Title label for user to use the toggle settings to allow saving and autofilling of credit cards for webpages. */
-"CreditCard.EditCard.ToggleToAllowAutofillTitle.v112" = "පත් සුරැකීම හා ස්වයං පිරවීම";
-
-/* Title label for the view where user can view their credit card info */
-"CreditCard.EditCard.ViewCreditCardTitle.v113" = "ණයපත බලන්න";
-

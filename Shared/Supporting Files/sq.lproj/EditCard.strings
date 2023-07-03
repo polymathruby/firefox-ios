@@ -19,6 +19,3 @@
 /* Title label for user to pick a credit card from the list below to be updated. */
 "CreditCard.EditCard.SavedCardListTitle.v112" = "KARTA TË RUAJTURA";
 
-/* Title label for user to use the toggle settings to allow saving and autofilling of credit cards for webpages. */
-"CreditCard.EditCard.ToggleToAllowAutofillTitle.v112" = "Ruani dhe plotësoni vetvetiu hollësi kartash";
-
