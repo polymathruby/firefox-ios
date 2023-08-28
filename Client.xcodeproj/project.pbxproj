@@ -9837,7 +9837,6 @@
 		E15A8B2B286CFD48004BB2B8 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-                E1AF355B286DE5F600960045 /* FullFunctionalTestPlan.xctestplan */,
 				EAF79C172A6F0B9500251CA4 /* ExperimentIntegrationTests.xctestplan */,
 				E1AF355B286DE5F600960045 /* FullFunctionalTestPlan.xctestplan */,
 				E1AF355F286DE5F700960045 /* PerformanceTestPlan.xctestplan */,
