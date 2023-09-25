@@ -1706,7 +1706,7 @@
 "The page could not be displayed in Reader View." = "გვერდის კითხვის რეჟიმში ჩვენება შეუძლებელია.";
 
 /* Error message in the remote tabs panel */
-"There was a problem accessing tabs from your other devices. Try again in a few moments." = "სხვა მოწყობილობების ჩანართებთან წვდომისას წარმოიქმნა ხარვეზი. სცადეთ ხელახლა, ოდნავ მოგვიანებით.";
+"There was a problem accessing tabs from your other devices. Try again in a few moments." = "სხვა მოწყობილობების ჩანართებთან წვდომისას წარმოიქმნა ხარვეზი. სცადეთ ხელახლა ცოტა ხანში.";
 
 /* Error displayed when reader mode cannot be enabled */
 "There was an error converting the page" = "გვერდის გარდაქმნისას წარმოიშვა შეცდომა";

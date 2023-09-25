@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "Non ten ningún outro dispositivo conectado a esta conta dispoñible para sincronizar.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "Non iniciou sesión na súa conta.";
+

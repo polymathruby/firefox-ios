@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "Njejsu žedne druge rědy z toś tym kontom zwězane, kótarež by se dali synchronizěrowaś.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "Njejsćo pla swójogo konta pśizjawjony.";
+

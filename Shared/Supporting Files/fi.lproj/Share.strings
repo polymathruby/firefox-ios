@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "Sinulla ei ole muita tähän tiliin yhdistettyjä laitteita synkronoitavaksi.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "Et ole kirjautunut tilillesi.";
+

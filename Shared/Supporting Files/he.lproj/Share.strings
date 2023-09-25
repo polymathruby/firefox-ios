@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "אין לך מכשירים אחרים המחוברים לחשבון זה הזמינים לסנכרון.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "לא מחובר לחשבון שלך.";
+

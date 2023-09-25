@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "არცერთი სხვა მოწყობილობა არ გაქვთ დაკავშირებული ამ ანგარიშთან დასინქრონებისთვის.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "არ ხართ შესული თქვენს ანგარიშზე.";
+

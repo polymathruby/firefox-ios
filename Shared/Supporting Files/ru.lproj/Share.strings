@@ -1,0 +1,6 @@
+/* Error message shown in the remote tabs panel */
+"SendTo.NoDevicesFound.Message.v119" = "У вас нет других устройств, подключенных к этому аккаунту, доступных для синхронизации.";
+
+/* See http://mzl.la/1ISlXnU */
+"SendTo.NotSignedIn.Title.v119" = "Вы не вошли в свой аккаунт.";
+
