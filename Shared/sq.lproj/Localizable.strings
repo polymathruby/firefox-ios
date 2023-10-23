@@ -166,11 +166,17 @@
 /* The label text in the Button Toast for switching to a fresh New Private Tab. */
 "ContextMenu.ButtonToast.NewPrivateTabOpened.LabelText" = "U hap Skedë e Re Private";
 
+/* The label text in the Button Toast for switching to a fresh New Private Tab. */
+"ContextMenu.ButtonToast.NewPrivateTabOpened.LabelText.v113" = "U hap Skedë e Re Private";
+
 /* The button text in the Button Toast for switching to a fresh New Tab. */
 "ContextMenu.ButtonToast.NewTabOpened.ButtonText" = "Kaloni në të";
 
 /* The label text in the Button Toast for switching to a fresh New Tab. */
 "ContextMenu.ButtonToast.NewTabOpened.LabelText" = "U hap Skedë e Re";
+
+/* The label text in the Button Toast for switching to a fresh New Tab. */
+"ContextMenu.ButtonToast.NewTabOpened.LabelText.v114" = "U hap Skedë e Re";
 
 /* Context menu item for copying an image to the clipboard */
 "ContextMenu.CopyImageButtonTitle" = "Kopjo Figurën";
@@ -691,6 +697,9 @@
 /* Label shown when there are no logins to list */
 "LoginsList.NoLoginsFound.Description" = "Këtu do të duken kredenciale hyrjesh të ruajtur. Nëse i keni ruajtur në një pajisje tjetër kredencialet tuaja Firefox të hyrjeve, bëni hyrjen në Llogarinë tuaj Firefox.";
 
+/* Label shown when there are no logins to list. The placeholder will be replaced with the app name. */
+"LoginsList.NoLoginsFound.Description.v119" = "Këtu do të duken kredenciale hyrjesh të ruajtur. Nëse i keni ruajtur në një pajisje tjetër kredencialet tuaja %@ të hyrjeve, bëni hyrjen në llogarinë tuaj.";
+
 /* Label shown when there are no logins saved */
 "LoginsList.NoLoginsFound.Title" = "S’u gjetën kredenciale hyrjesh";
 
@@ -864,6 +873,9 @@
 
 /* The title for the option to view the What's new page. */
 "Menu.WhatsNew.Title" = "Ç’ka të Re";
+
+/* Label for the zoom page button in the menu, used to show the Zoom Page bar. The placeholder shows the current zoom level in percent. */
+"Menu.ZoomPage.Title.v113" = "Zoom (%@)";
 
 /* Accessibility label for Mobile Device image in remote tabs list */
 "mobile device" = "pajisje celulare";
