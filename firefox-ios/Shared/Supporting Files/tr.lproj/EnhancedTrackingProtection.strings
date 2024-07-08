@@ -1,5 +1,5 @@
 /* The text for the clear cookies and site data alert button inside the enhanced tracking protection screen. */
-"Menu.EnhancedTrackingProtection.ClearData.AlertCancelButton.v128" = "Vazgeç";
+"Menu.EnhancedTrackingProtection.ClearData.AlertCancelButton.v128" = "İptal";
 
 /* The text for the clear cookies and site data alert button inside the enhanced tracking protection screen. */
 "Menu.EnhancedTrackingProtection.ClearData.AlertOkButton.v128" = "Temizle";
