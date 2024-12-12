@@ -10,6 +10,7 @@ export const HeuristicsRegExp = {
     tel: undefined,
     "street-address": undefined,
     "address-line1": undefined,
+    "address-housenumber": undefined,
     "address-line2": undefined,
     "address-line3": undefined,
     "address-level2": undefined,
@@ -47,9 +48,10 @@ export const HeuristicsRegExp = {
     // Firefox-specific rules
     {
       "address-line1": "addrline1|address_1|addl1",
-      "address-line2": "addrline2|address_2|addl2",
+      "address-line2":
+        "addrline2|address_2|addl2" +
+        "|landmark", // common in IN
       "address-line3": "addrline3|address_3|addl3",
-      "country": "land", // de-DE
       "postal-code": "^PLZ(\\b|\\*)", // de-DE
       "additional-name": "apellido.?materno|lastlastname",
       "cc-name":
@@ -77,7 +79,7 @@ export const HeuristicsRegExp = {
         "|(anno|año)" +      // es-ES
         "|jaar",             // nl-NL
       "cc-type":
-        "type" +
+        "(cc|card).*(type)" +
         "|kartenmarke" +     // de-DE
         "|typ.*karty",       // pl-PL
       "cc-csc":
@@ -197,9 +199,8 @@ export const HeuristicsRegExp = {
         "cc-?name" +
         "|card-?name" +
         "|cardholder-?name" +
-        "|cardholder" +
+        "|cardholder",
         // "|(^name$)" + // Removed to avoid overwriting "name", above.
-        "|(^nom$)",
 
       "cc-number":
         "cc-?number" +
@@ -389,7 +390,7 @@ export const HeuristicsRegExp = {
       "address-line1":
         "^address$|address[_-]?line(one)?|address1|addr1|street" +
         "|(?:shipping|billing)address$" +
-        "|strasse|straße|hausnummer|housenumber" + // de-DE
+        "|strasse|straße" + // de-DE
         "|house.?name" + // en-GB
         "|direccion|dirección" + // es
         "|adresse" + // fr-FR
@@ -466,6 +467,9 @@ export const HeuristicsRegExp = {
         "|राज्य" + // hi
         "|((\\b|_|\\*)(eyalet|[şs]ehir|[İii̇]l(imiz)?|kent)(\\b|_|\\*))" + // tr
         "|^시[·・]?도", // ko-KR
+
+      "address-housenumber":
+        "housenumber|hausnummer|haus|house[a-z\-]*n(r|o)",
 
       "postal-code":
         "zip|postal|post.*code|pcode" +
@@ -640,6 +644,7 @@ export const HeuristicsRegExp = {
     {
       "address-line2":
         "address|line" +
+        "|house|building|apartment|floor" +    // de-DE
         "|adresse" +      // fr-FR
         "|indirizzo" +    // it-IT
         "|地址" +         // zh-CN
